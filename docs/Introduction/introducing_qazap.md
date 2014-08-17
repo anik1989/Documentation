@@ -3,7 +3,6 @@ title: What is Qazap?
 description: An Introduction to Qazap Component
 
 ---
-[](#1)
 What is Qazap?
 -----
 
