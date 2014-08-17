@@ -1,6 +1,6 @@
 ---
-title: What is Qazap?
-description: An Introduction to Qazap Component
+Title: What is Qazap?
+
 ---
 
 ## <a name="what-is-qazap"></a>What is Qazap?
