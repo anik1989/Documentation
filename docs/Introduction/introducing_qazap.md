@@ -8,4 +8,3 @@ What is Qazap?
 
 Qazap is an eCommerce component for Joomla CMS (Content Management System).
 
-## Header 2 ##      {#header2}
