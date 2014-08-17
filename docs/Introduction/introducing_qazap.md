@@ -1,7 +1,4 @@
----
-Title: What is Qazap?
-
----
+#What is Qazap?
 
 ## <a name="what-is-qazap"></a>What is Qazap?
 
