@@ -18,7 +18,7 @@ You can configure your shop for selling intangible products or services.
 
 You can configure your shop for selling downloadable products. You can set the number of times a file can downloaded and the number of days till which the download will remain active. When this feature is enabled you can add specific downloadable files to your products. 
 
-## <a id="downloadable-products" class="docs-anchor"></a>Memberships or Subscriptions
+## <a id="memberships" class="docs-anchor"></a>Memberships or Subscriptions
 
 Qazap allows you to sell memberships or subscriptions along with products. You can create infinite number of subscription plans with specific prices. Every membership/subscription plans that you create also create a new Joomla User Group and new Joomla View Level which gets automatically mapped with the plan. You can easily restrict access of the subscribers to your Joomla categories, articles, modules, plugins or any other extension used in your site using standard oomla User Group or new Joomla View Level. Optionally the system also gives you an option to provide specific access certain views of every component used in your site. 
 
