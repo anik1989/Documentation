@@ -1,8 +1,8 @@
 # System Requirements
 
-## <a id="joomla" class="docs-anchor"></a>Joomla!™
+## <a id="joomla-compatibility" class="docs-anchor"></a>Joomla! Compatibility
 
-Qazap is designed for latest Joomla 3. You need to have Joomla! 3.3.3 or above to install Qazap. 
+Qazap is designed for latest Joomla!™ 3. You need to have Joomla!™ 3.3.3 or above to install Qazap. 
 
 ## <a id="mininimum-system-requirements" class="docs-anchor"></a>Minimum System Requirements
 
